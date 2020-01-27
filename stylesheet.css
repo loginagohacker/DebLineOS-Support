@@ -3,6 +3,20 @@
 <head>
 <style>
 
+heads {
+  background-color: white;
+  color: black;              
+  margin: 20px;              
+  align: center;
+  font-family: verdana;            
+}
+            
+helpContainer {          
+  background-color: black;              
+  color: white;             
+  align: left;              
+  font-family: arial;            
+}
 body {
 background-color: white;
 }
